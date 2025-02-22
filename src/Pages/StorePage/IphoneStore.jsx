@@ -2,7 +2,7 @@ import { motion, useInView } from 'motion/react'
 
 import { useRef } from 'react'
 import { products } from './props'
-import LatestRow from './LatestRow'
+import Latest from './Latest'
 
 const IphoneStore = () => {
 
@@ -52,14 +52,14 @@ const IphoneStore = () => {
                         <div className="flex flex-col gap-[1em]"  key={dataa.id}>
                             
                             <img  src={dataa.img} alt="" />
-                            <p className="text-center">{dataa.name}</p>
+                            <p className="text-center font-semibold">{dataa.name}</p>
                         </div>
                     ))
                 }
                 </div>
                 
             </div>
-            <LatestRow/>
+            <Latest/>
         </div >
     )
 }

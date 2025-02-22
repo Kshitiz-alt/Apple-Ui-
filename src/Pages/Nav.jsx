@@ -19,9 +19,6 @@ const Nav = () => {
                 <a className="text-black text-[1.5em]" href=""><CiSearch/></a>
                 <a className="text-black text-[1.5em]" href=""><FaShoppingBag/></a>
             </nav>
-
-
-
         </>
     )
 }

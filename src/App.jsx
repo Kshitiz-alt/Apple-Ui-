@@ -1,5 +1,4 @@
 import IphonesPage from "./Pages/MainApplePage/IphonesPage"
-
 import Nav from "./Pages/Nav"
 import IphoneStore from "./Pages/StorePage/IphoneStore"
 
@@ -14,8 +13,6 @@ function App() {
         <IphonesPage/>
         <IphoneStore/>
       </div>
-
-
     </>
   )
 }
