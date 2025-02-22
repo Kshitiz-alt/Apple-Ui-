@@ -30,8 +30,8 @@ const IphonesPage = () => {
           <h1 className="relative z-[1] top-[-7em] flex justify-center text-[2.8em] font-bold">iPhone 16<p className="bg-clip-text text-transparent bg-gradient-to-br from-blue-400 to-red-500">e</p></h1>
           <h1 className="relative z-[1] top-[-14em] flex justify-center text-[1.4em]">Supersized battery life</h1>
           <div className="flex relative justify-center items-center top-[-17em] gap-[2em] text-black z-[1]">
-            <a className="h-[30px] w-[10%] bg-blue-400 text-white borderRadius " href="">Learn more</a>
-            <a className="h-[30px] w-[10%] border borderRadius hover:text-white " href="">View Pricing</a>
+            <a className="h-[30px] w-[10%] bg-blue-400 hover:bg-blue-700 text-white borderRadius " href="">Learn more</a>
+            <a className="h-[30px] w-[10%] border borderRadius hover:bg-blue-600 hover:text-white " href="">View Pricing</a>
           </div>
           <p className="relative flex justify-center items-center text-black/50 z-[1] text-[1.3em] bg-gray-300/80  top-[-10.3em]">
             Pre-order from 6:30 PM IST on 21 february Available from 28 February

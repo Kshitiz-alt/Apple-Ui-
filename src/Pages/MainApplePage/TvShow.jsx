@@ -27,7 +27,7 @@ const TvShow = () => {
       {/* Scrollable Image Container */}
       <div 
         ref={ref} 
-        className="flex gap-[1em] overflow-x-scroll scroll-smooth space-x-6 scrollbar-hide p-4">
+        className="flex gap-[1em] overflow-x-scroll Scroll scroll-smooth space-x-6 scrollbar-hide p-4">
         {TvData.map((data) => (
           <div key={data.id} className="relative min-w-[1100px]">
             <img 

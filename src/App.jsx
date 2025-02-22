@@ -11,7 +11,7 @@ function App() {
     <>
       <Nav />
       <div className="w-full h-[1020vh] overflow-hidden">
-        <IphonesPage />
+        <IphonesPage/>
         <IphoneStore/>
       </div>
 
