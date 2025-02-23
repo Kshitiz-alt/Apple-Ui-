@@ -60,6 +60,7 @@ const IphoneStore = () => {
                 
             </div>
             <Latest/>
+            
         </div >
     )
 }

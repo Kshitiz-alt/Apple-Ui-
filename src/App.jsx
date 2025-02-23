@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Nav />
-      <div className="w-full h-[1020vh] overflow-hidden">
+      <div className="w-full h-[1000vh] overflow-hidden">
         <IphonesPage/>
         <IphoneStore/>
       </div>

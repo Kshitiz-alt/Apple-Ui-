@@ -158,6 +158,7 @@ export const HelpCards = [
     {
         id:1,
         textStyles:"",
+        imgUp:"top-[-2.5em]",
         name:"TODAY AT APPLE",
         desc:"Join free sessions at your Apple Store.",
         img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-50-TAA-202310?wid=960&hei=1000&fmt=p-jpg&qlt=95&.v=1697149577145"
@@ -216,5 +217,89 @@ export const AppleStore = [
         imgUp:"top-[-3em]",
         desc:"Learn how to get more from your devices",
         img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-40-india-asa-go-further-202501?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1737095125109"
+    }
+]
+
+export const AccessoriesData = [
+    {
+        id:0,
+        name:"In with the new.",
+        desc:"Your favourite accessories. Now available in bold new colours and with innovative new features ",
+        nameStyle:"top-[-16em]! left-[1em] text-[1.7em]",
+        descStyle:"top-[-26em]! left-[.5em] text-[1em]",
+        styles:"w-[65%] h-[60vh]",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-40-accessories-202409?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1723822259651"
+    },
+    {
+        id:1,
+        name:"iPhone 16e Silicon Case - fuchsia",
+        desc:"MRP ₹3900.00 (Incl. of all taxes)",
+        nameStyle:"",
+        styles:"p-[40px]! w-[40%] h-[60vh] ",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MD3W4?wid=400&hei=400&fmt=jpeg&qlt=90&.v=1738665639656"
+    },
+    {
+        id:2,
+        name:"iPhone 16 Pro Clear Case with MagSafe",
+        desc:"MRP ₹4900.00 (Incl. of all taxes)",
+        nameStyle:"",
+        styles:"p-[40px]! w-[40%] h-[60vh]",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MA7E4?wid=400&hei=400&fmt=jpeg&qlt=90&.v=1723930332796"
+    },
+    {
+        id:3,
+        name:"46mm Black Unity Sport Loop - Unity Rhythm",
+        desc:"MRP ₹4500.00 (Incl. of all taxes)",
+        nameStyle:"",
+        styles:"p-[40px]! w-[40%] h-[60vh]",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MDF54?wid=400&hei=400&fmt=jpeg&qlt=90&.v=1734628448223"
+    },
+    {
+        id:4,
+        name:"40mm Plum Sport Loop",
+        desc:"MRP ₹4500.00 (Incl. of all taxes)",
+        nameStyle:"",
+        styles:"p-[40px]! w-[40%] h-[60vh]",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MAXH4?wid=400&hei=400&fmt=jpeg&qlt=90&.v=1724280573341"
+    },
+    {
+        id:5,
+        name:"49mm Natural Titanium Milanese Loop - Medium",
+        desc:"MRP ₹24500.00 (Incl. of all taxes)",
+        nameStyle:"",
+        styles:"p-[40px]! w-[40%] h-[60vh]",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MXKC3ref?wid=400&hei=400&fmt=jpeg&qlt=90&.v=1723919332235"
+    },
+    {
+        id:6,
+        name:"iPhone 16 Silicone Case with MagSafe - Ultramarine",
+        desc:"MRP ₹4900.00 (Incl. of all taxes)",
+        nameStyle:"",
+        styles:"p-[40px]! w-[40%] h-[60vh]",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MYY63?wid=400&hei=400&fmt=jpeg&qlt=90&.v=1723236736369"
+    },
+    {
+        id:7,
+        name:"iPhone FineWoven Wallet with MagSafe - Deep Blue",
+        desc:"MRP ₹5900.00 (Incl. of all taxes)",
+        nameStyle:"",
+        styles:"p-[40px]! w-[31%] h-[60vh]",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MA6X4?wid=400&hei=400&fmt=jpeg&qlt=90&.v=1723573541193"
+    },
+    {
+        id:8,
+        name:"Mag Safe Charger (1m)",
+        desc:"MRP ₹4500.00 (Incl. of all taxes)",
+        nameStyle:"",
+        styles:"p-[40px]! w-[31%] h-[60vh]",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MX6X3?wid=400&hei=400&fmt=jpeg&qlt=90&.v=1724257154789"
+    },
+    {
+        id:9,
+        name:"Explore All accessories.",
+        desc:"",
+        nameStyle:"top-[-15em]! left-[1em] text-[1.7em]",
+        styles:"w-[65%] h-[60vh]",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-40-accessories-explore-202410?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1728266907826"
     }
 ]
