@@ -303,3 +303,122 @@ export const AccessoriesData = [
         img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-40-accessories-explore-202410?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1728266907826"
     }
 ]
+
+export const AirPodShow = [
+    {
+        id:0,
+        name:"Get 3 months of Apple Music free.",
+        desc:"Included with the purchase of selected Apple devices",
+        nameStyle:"top-[-18em]! left-[.2em] text-[1.7em]",
+        descStyle:"top-[-30em]! left-[.5em] text-[1em]",
+        styles:"w-[65%] h-[73vh]",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-50-apple-music-202412?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1734984030806"
+    },
+    {
+        id:1,
+        name:"iPhone 16e Silicon Case - fuchsia",
+        desc:"MRP ₹17900.00 (Incl. of all taxes)",
+        nameStyle:"",
+        styles:"p-[40px]! w-[40%] h-[60vh] ",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-4-anc-select-202409?wid=400&hei=400&fmt=jpeg&qlt=90&.v=1725502639798"
+    },
+    {
+        id:2,
+        name:"iPhone 16 Pro Clear Case with MagSafe",
+        desc:"MRP ₹24900.00 (Incl. of all taxes)",
+        nameStyle:"",
+        styles:"p-[40px]! w-[40%] h-[60vh]",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-pro-2-hero-select-202409?wid=400&hei=400&fmt=jpeg&qlt=90&.v=1724041669458"
+    },
+    {
+        id:3,
+        name:"46mm Black Unity Sport Loop - Unity Rhythm",
+        desc:"MRP ₹29900.00 (Incl. of all taxes)",
+        nameStyle:"",
+        styles:"p-[40px]! w-[40%] h-[60vh]",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MX743?wid=400&hei=400&fmt=jpeg&qlt=90&.v=1737155848376"
+    },
+    {
+        id:4,
+        name:"40mm Plum Sport Loop",
+        desc:"MRP ₹59900.00 (Incl. of all taxes)",
+        nameStyle:"",
+        styles:"p-[40px]! w-[40%] h-[60vh]",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-max-select-202409-midnight?wid=400&hei=400&fmt=jpeg&qlt=90&.v=1724927451276"
+    },
+    {
+        id:5,
+        name:"49mm Natural Titanium Milanese Loop - Medium",
+        desc:"MRP ₹32900.00 (Incl. of all taxes)",
+        nameStyle:"",
+        styles:"p-[40px]! w-[40%] h-[60vh]",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/homepod-select-midnight-202210?wid=400&hei=400&fmt=jpeg&qlt=90&.v=1670557210097"
+    },
+    {
+        id:6,
+        name:"iPhone 16 Silicone Case with MagSafe - Ultramarine",
+        desc:"MRP ₹10900.00 (Incl. of all taxes)",
+        nameStyle:"",
+        styles:"p-[40px]! w-[40%] h-[60vh]",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/homepod-mini-select-orange-202110?wid=400&hei=400&fmt=jpeg&qlt=90&.v=1632925511000"
+    },
+    {
+        id:7,
+        name:"iPhone FineWoven Wallet with MagSafe - Deep Blue",
+        desc:"MRP ₹22900.00 (Incl. of all taxes)",
+        nameStyle:"",
+        styles:"p-[40px]! w-[31%] h-[60vh]",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MUW33?wid=400&hei=400&fmt=jpeg&qlt=90&.v=1712255584823"
+    },
+    {
+        id:8,
+        name:"Mag Safe Charger (1m)",
+        desc:"MRP ₹16900.00 (Incl. of all taxes)",
+        nameStyle:"",
+        styles:"p-[40px]! w-[31%] h-[60vh]",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MW463?wid=400&hei=400&fmt=jpeg&qlt=90&.v=1716251412721"
+    },
+]
+
+export const Exp = [
+    {
+        id:0,
+        styles:"h-[60vh]",
+        imgStyles:"top-[-5em]",
+        name:"APPLE INTELLIGENCE",
+        desc:"New features for writing, focus, communication for more.",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-50-apple-intelligence-202410?wid=960&hei=1000&fmt=p-jpg&qlt=95&.v=1729188054996"
+    },
+    {
+        id:1,
+        styles:"h-[60vh]",
+        imgStyles:"top-[-5em]",
+        name:"APPLE TV+",
+        desc:"Get 3 months of Apple TV+ for free when you buy an Apple device.",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-50-tv-services-202501_GEO_IN?wid=960&hei=1000&fmt=p-jpg&qlt=95&.v=1736175928601"
+    },
+    {
+        id:2,
+        styles:"h-[60vh]",
+        imgStyles:"top-[-2em]",
+        name:"",
+        desc:"Four Apple services. One easy subscription",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-50-subscriptions-202108?wid=960&hei=1000&fmt=p-jpg&qlt=95&.v=1626375547000"
+    },
+    {
+        id:3,
+        styles:"h-[60vh]",
+        imgStyles:"top-[-2em]",
+        name:"",
+        desc:"We have got you covered",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-50-applecare-202409?wid=960&hei=1000&fmt=p-jpg&qlt=95&.v=1723747544269"
+    },
+    {
+        id:4,
+        styles:"h-[60vh]",
+        imgStyles:"top-[-5em]",
+        name:"HOME",
+        desc:"See how one app can control your entire home",
+        img:"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-50-homekit-202405_GEO_IN?wid=960&hei=1000&fmt=p-jpg&qlt=95&.v=1715960300450"
+    }
+]

@@ -23,7 +23,7 @@ const IphonesPage = () => {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
   return (
-    <div className="relative ">
+    <div className="relative">
       <video className="h-full w-full bg-cover z-[0]" muted loop autoPlay src="https://www.apple.com/105/media/us/iphone-16e/2025/d9015f23-5cc1-45b4-b25a-2b1caee9d7ac/films/announcement/iphone-16e-announcement-tpl-us-2025_960x540.mp4"></video>
       <div>
         <div className="duration-300 transition-all" style={{ paddingLeft: `${padding}px`, paddingRight: `${padding}px` }}>
