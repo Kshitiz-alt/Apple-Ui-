@@ -43,8 +43,8 @@ const IphonesPage = () => {
       </div>
       <div className="grid grid-cols-1 gap-[10px] relative top-[-40em]" ref={ref}>
         {
-          IphonesDATA.map((dataa)=>(
-            <motion.div key={dataa.id}
+          IphonesDATA.map((dataa,index)=>(
+            <motion.div key={dataa.id || index}
             animate={DataAppear ? {x:0,opacity:1} : {x:300,opacity:0}}
             transition={{staggerChildern:0.5, duration:3}}
             >
